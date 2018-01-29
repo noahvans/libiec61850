@@ -1,0 +1,9 @@
+D:\SVN\GitHub\libiec61850\dotnetcore\IEC61850forCSharp\obj\Debug\netstandard2.0\IEC61850forCSharp.csprojResolveAssemblyReference.cache
+D:\SVN\GitHub\libiec61850\dotnetcore\IEC61850forCSharp\obj\Debug\netstandard2.0\IEC61850forCSharp.csproj.CoreCompileInputs.cache
+D:\SVN\GitHub\libiec61850\dotnetcore\IEC61850forCSharp\obj\Debug\netstandard2.0\IEC61850forCSharp.AssemblyInfoInputs.cache
+D:\SVN\GitHub\libiec61850\dotnetcore\IEC61850forCSharp\obj\Debug\netstandard2.0\IEC61850forCSharp.AssemblyInfo.cs
+D:\SVN\GitHub\libiec61850\dotnetcore\IEC61850forCSharp\bin\Debug\netstandard2.0\IEC61850forCSharp.deps.json
+D:\SVN\GitHub\libiec61850\dotnetcore\IEC61850forCSharp\bin\Debug\netstandard2.0\IEC61850forCSharp.dll
+D:\SVN\GitHub\libiec61850\dotnetcore\IEC61850forCSharp\bin\Debug\netstandard2.0\IEC61850forCSharp.pdb
+D:\SVN\GitHub\libiec61850\dotnetcore\IEC61850forCSharp\obj\Debug\netstandard2.0\IEC61850forCSharp.dll
+D:\SVN\GitHub\libiec61850\dotnetcore\IEC61850forCSharp\obj\Debug\netstandard2.0\IEC61850forCSharp.pdb
