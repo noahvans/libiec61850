@@ -1,14 +1,12 @@
-﻿using NUnit.Framework;
-using System;
+﻿using IEC61850.Client;
 using IEC61850.Common;
-using IEC61850.Client;
 using IEC61850.Server;
+using NUnit.Framework;
 using System.Collections.Generic;
-using System.Threading;
 
 namespace tests
 {
-	[TestFixture ()]
+    [TestFixture ()]
 	public class Test
 	{
 		[Test ()]
