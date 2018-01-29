@@ -25,6 +25,16 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "IEC61850forCSharp/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/IEC61850forCSharp.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IEC61850forCSharp.dll": {}
+        }
       }
     }
   },
@@ -169,10 +179,16 @@
         "build/netstandard2.0/ref/netstandard.xml",
         "lib/netstandard1.0/_._"
       ]
+    },
+    "IEC61850forCSharp/1.0.0": {
+      "type": "project",
+      "path": "../IEC61850forCSharp/IEC61850forCSharp.csproj",
+      "msbuildProject": "../IEC61850forCSharp/IEC61850forCSharp.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
+      "IEC61850forCSharp >= 1.0.0",
       "NETStandard.Library >= 2.0.1"
     ]
   },
@@ -215,7 +231,11 @@
       },
       "frameworks": {
         "netstandard2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\SVN\\GitHub\\libiec61850\\dotnetcore\\IEC61850forCSharp\\IEC61850forCSharp.csproj": {
+              "projectPath": "D:\\SVN\\GitHub\\libiec61850\\dotnetcore\\IEC61850forCSharp\\IEC61850forCSharp.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
