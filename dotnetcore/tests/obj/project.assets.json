@@ -146,7 +146,7 @@
       },
       "IEC61850forCSharp/1.0.0": {
         "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
+        "framework": "Unsupported,Version=v0.0",
         "compile": {
           "bin/placeholder/IEC61850forCSharp.dll": {}
         },
@@ -931,5 +931,16 @@
         "warn": true
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project IEC61850forCSharp is not compatible with netstandard2.0 (.NETStandard,Version=v2.0). Project IEC61850forCSharp supports: netcoreapp2.0 (.NETCoreApp,Version=v2.0)",
+      "libraryId": "IEC61850forCSharp",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
 }
